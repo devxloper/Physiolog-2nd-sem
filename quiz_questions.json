@@ -1,0 +1,2051 @@
+[
+  {
+    "question": "Which of the following is the most important determinant of extracellular volume (ECF)?",
+    "correct": "Amount of Na+ in the ECF",
+    "options": [
+      "Amount of Na+ in the ECF",
+      "Amount of K+ in the ECF",
+      "Protein content in the ECF",
+      "Amount of Ca++ in the ECF"
+    ]
+  },
+  {
+    "question": "What is this Homeostasis",
+    "correct": "provides for the tight regulation of all physiological variables",
+    "options": [
+      "provides for the tight regulation of all physiological variables",
+      "must always be restored using negative feedback mechanisms",
+      "is the sum of all chemical reactions in the body",
+      "is a combination of positive and negative feedback mechanisms",
+      "is the sum of all physical reactions in the body"
+    ]
+  },
+  {
+    "question": "After you eat lunch, nerve cells in your stomach respond to the distension (the stimulus) resulting from the food. They relay this information to ________.",
+    "correct": "A control center",
+    "options": [
+      "A control center",
+      "A set point",
+      "Effectors",
+      "Sensors",
+      "Receptors"
+    ]
+  },
+  {
+    "question": "Which electrolyte is the active transporter?",
+    "correct": "5 Na+ exchange for 2K+",
+    "options": [
+      "5 Na+ exchange for 2K+",
+      "Increase in intracellular Na+ increases the activity of the pump",
+      "Pump K+ against intracellular",
+      "Pumps Na+ against a gradient"
+    ]
+  },
+  {
+    "question": "Which of the following transport process doesn\u2019t follow \u2018saturation kinetics\u2019:",
+    "correct": "Simple diffusion",
+    "options": [
+      "Simple diffusion",
+      "Symport active transport",
+      "Facilitated diffusion",
+      "Antiport active transpor"
+    ]
+  },
+  {
+    "question": "The sarcomere is a functional unit which gives skeletal and cardiac muscles their striated appearance, which was first described by Van Leeuwenhoek. A sarcomere is defined as the segment between two neighboring Z-lines. They act as an anchoring point of the actin filaments. Surrounding the Z-line is the region of the I-band. 1- Band is the zone of thin filaments that is not superimposed by thick filaments. Named for their properties under a polarizing microscope, an A-band contains the entire length of a single thick filament. The Anisotropic band contains both thick and thin filaments. Which of the following decreases in length during the contraction of skeletal muscle fiber?",
+    "correct": "I band of the sarcomere",
+    "options": [
+      "I band of the sarcomere",
+      "A band of the sarcomere",
+      "Thick filaments",
+      "Thin filaments"
+    ]
+  },
+  {
+    "question": "Where is extends Pseudo H zone in a sarcomere?",
+    "correct": "Two sides of M line",
+    "options": [
+      "Two sides of M line",
+      "Two I bands",
+      "Two Z line",
+      "A and I band"
+    ]
+  },
+  {
+    "question": "At rest, myosin heads are bound with adenosine diphosphate (said to be in a \"cocked\" position) in relation to the thin filament that does not have Ca 2+ bound to the troponin- tropomyosin complex. Ca 2+ bound to the troponin- tropomyosin complex induces a conformational change in the thin filament that allows for myosin heads to cross-bridge with thin filament actin. Which one of the following triggers the detachment of the myosin head from the actin filament?",
+    "correct": "Binding of ATP to head",
+    "options": [
+      "Binding of ATP to head",
+      "Entry of Ca into sarcoplasmic reticulum",
+      "Change in troponin c configuration",
+      "Hydrolysis of ATP to ADP and Pi"
+    ]
+  },
+  {
+    "question": "Which of the following proteins is present in skeletal muscles, but absent in a smooth muscle?",
+    "correct": "Troponin",
+    "options": [
+      "Troponin",
+      "Tropomyosin",
+      "Actin",
+      "Myosin"
+    ]
+  },
+  {
+    "question": "The intrafusal fibres of the striated skeletal muscles are innervated by one of the following type of motor neurons, Choose the correct answer:",
+    "correct": "Gamma",
+    "options": [
+      "Gamma",
+      "Beta",
+      "Alpha",
+      "Delta"
+    ]
+  },
+  {
+    "question": "The following is an example of a primarily inhibitory amino acid:",
+    "correct": "GABA",
+    "options": [
+      "GABA",
+      "Aspartate",
+      "Somatostatin",
+      "Glutamate"
+    ]
+  },
+  {
+    "question": "Which is relation between nerve thickness and conduction velocity:",
+    "correct": "Linear",
+    "options": [
+      "Linear",
+      "Parabolic",
+      "Hyperbolic",
+      "No relation"
+    ]
+  },
+  {
+    "question": "Across which of following is seen unidirectional transpot:",
+    "correct": "Synapse",
+    "options": [
+      "Synapse",
+      "Axon",
+      "Dendrite",
+      "Cell body"
+    ]
+  },
+  {
+    "question": "Arrange the following sequentially in the descending order of nerve impulse transmission velocity:",
+    "correct": "B-->D-->C-->A",
+    "options": [
+      "B-->D-->C-->A",
+      "A-->D-->C-->B",
+      "A-->C-->D-->B",
+      "C-->A-->B-->D"
+    ]
+  },
+  {
+    "question": "Which of the following is a nucleus of basal ganglia?",
+    "correct": "Dentate nucleus",
+    "options": [
+      "Dentate nucleus",
+      "Solitary nucleus",
+      "Caudate nucleus",
+      "Red nucleus"
+    ]
+  },
+  {
+    "question": "Which of the following is NOT caused by sympathetic stimulation?",
+    "correct": "Increased venous capacitance",
+    "options": [
+      "Increased venous capacitance",
+      "Increased HR",
+      "Increased BP",
+      "Increased total peripheral resistance"
+    ]
+  },
+  {
+    "question": "A pool of presynaptic neurons innervate the dendrites of a postsynaptic neuron. Electrical signals are transferred from the dendrites to the soma of the postsynaptic neuron by which process?",
+    "correct": "Diffusion",
+    "options": [
+      "Diffusion",
+      "Capacitive discharge",
+      "Active transport",
+      "Electrotonic conduction"
+    ]
+  },
+  {
+    "question": "Smooth muscle cells also develop tonic and phasic contractions in response to changes in load or length. Regardless of the stimulus, smooth muscle cells use cross-bridge cycling between actin and myosin to develop force. And calcium ions (Ca2+) serve to initiate contraction. Smooth muscle contraction due to the release of calcium. Occurs because of",
+    "correct": "Calmodulin dependent myosin light chain kinase",
+    "options": [
+      "Calmodulin dependent myosin light chain kinase",
+      "Calcium combining with troponin c",
+      "Increased cGMP",
+      "Increased cAMP"
+    ]
+  },
+  {
+    "question": "Which of the following nerve ganglia are responsible for the secretion of saliva?",
+    "correct": "Trigeminal nerve",
+    "options": [
+      "Trigeminal nerve",
+      "Vagus nerve",
+      "Olfactory nerve",
+      "Optic nerve"
+    ]
+  },
+  {
+    "question": "Which is the colored is the colored part of the eye?",
+    "correct": "Iris",
+    "options": [
+      "Iris",
+      "Retina",
+      "Aqueous humor",
+      "Cornea",
+      "Skin"
+    ]
+  },
+  {
+    "question": "Which sense organ is primarily responsible for detecting odors and sending signals to then brain for interpretation?",
+    "correct": "Eyes",
+    "options": [
+      "Eyes",
+      "Ears",
+      "Nose",
+      "Tongue",
+      "Ears"
+    ]
+  },
+  {
+    "question": "Which of these organs is used to drain fluid from the inner ear into the throat?",
+    "correct": "Auditory tube",
+    "options": [
+      "Auditory tube",
+      "Eustachian tube",
+      "Semicircular canal",
+      "Auditory canals",
+      "Nose"
+    ]
+  },
+  {
+    "question": "The potential changes that initiate action potentials in the retina are generated by the action of light on photosensitive compounds in the rods and cones. When light is absorbed by these substances, their structure changes and this t riggers a sequence of event s that initiates the neural activity. Which of the following layers of the retina does light enter the eye pass through first?",
+    "correct": "Retinal ganglion layer",
+    "options": [
+      "Retinal ganglion layer",
+      "Outer nuclear layer",
+      "Outer plexiform layer",
+      "Inner nuclear layer"
+    ]
+  },
+  {
+    "question": "The afferent fibers in the auditory division of the 8th CN end in dorsal and ventral cochlear nuclei. From there, auditory impulses pass by various routes to the inferior colliculi, the centers for auditory reflexes, and via the medial geniculate body in the thalamus to the auditory cortex, which is located on",
+    "correct": "Superior part of temporal lobe",
+    "options": [
+      "Superior part of temporal lobe",
+      "Limbic system",
+      "Posterior part of parietal lobe",
+      "Occipital part"
+    ]
+  },
+  {
+    "question": "The Organ of Corti on the basilar membrane extends from the apex to the base of the cochlea and thus has a spiral shape. This structure contains the highly specialized auditory receptors (hair cells) whose processes pierce the tough, membrane-like reticular lamina that is supported by the pillar cells or rods of Corti. Which of the following ions initiates the transmission of sound by the organ of Corti?",
+    "correct": "Potassium influx",
+    "options": [
+      "Potassium influx",
+      "Sodium influx",
+      "Sodium efflux",
+      "Potassium refflux"
+    ]
+  },
+  {
+    "question": "A 25-year-old student with 20/20 vision looks up from his book to view his girlfriend sitting on the other side of the room. Which of the following is most likely to occur when the student changes his view from his book to his girlfriend?",
+    "correct": "Thinner lens. relaxation of ciliary muscle",
+    "options": [
+      "Thinner lens. relaxation of ciliary muscle",
+      "Thicker lens, relaxation of ciliary muscle",
+      "Thinner lens. contraction of ciliary muscle",
+      "Thicker lens, contraction of ciliary muscle"
+    ]
+  },
+  {
+    "question": "Which of the following components primarily engages in oxygen transport in blood?",
+    "correct": "hemoglobin",
+    "options": [
+      "hemoglobin",
+      "albumin",
+      "fibrinogen",
+      "electrolytes",
+      "antibodies"
+    ]
+  },
+  {
+    "question": "In which of the following is no counterflow mechanism observed?",
+    "correct": "Eye",
+    "options": [
+      "Eye",
+      "Heart",
+      "Testes",
+      "Kidney"
+    ]
+  },
+  {
+    "question": "Which of the following changes occurs in RBCs of stored blood?",
+    "correct": "Increase in Na+ & decrease in K+ content",
+    "options": [
+      "Increase in Na+ & decrease in K+ content",
+      "Decrease in Na+ & K+ content",
+      "Increase in Na+ & K+ content",
+      "Increased activity of Na+ - K+ ATPase."
+    ]
+  },
+  {
+    "question": "Plasma is a transparent, straw-colored, liquid portion of the blood which is acquired after centrifuging blood with an anticoagulant. Serum is an undiluted fluid, the extracellular portion of blood that is acquired after centrifuging of coagulated blood. Which one of the following is present in both Serum and Plasma?",
+    "correct": "Fibrinogen",
+    "options": [
+      "Fibrinogen",
+      "Factor VII",
+      "Factor V",
+      "Factor II"
+    ]
+  },
+  {
+    "question": "A woman whose blood type is A, Rh positive and a man whose blood type is B, Rh positive come to the clinic with a 3-year-old girl whose blood type is 0, Rh negative. Which of the following would be correct about the attitude of these two adults towards this child?",
+    "correct": "This couple can be the natural parents of this child",
+    "options": [
+      "This couple can be the natural parents of this child",
+      "The man can be the child's natural father, but the woman cannot be the natural mother",
+      "Neither adult can be the natural parent of this child",
+      "The woman can be the child's natural mother, but the man cannot be the natural father"
+    ]
+  },
+  {
+    "question": "A 2-year-old boy bleeds excessively from minor injuries and has previously had bleeding gums. The maternal grandfather has a bleeding disorder. The child's physical examination shows slight tenderness of his knee with fluid accumulation in the knee joint. Which of the following blood coagulation factors is deficient in this patient?",
+    "correct": "Factor X",
+    "options": [
+      "Factor X",
+      "Factor II",
+      "Factor VIII",
+      "Factor III"
+    ]
+  },
+  {
+    "question": "Which of the following describes the appearance of erythrocytes under a microscope?",
+    "correct": "Biconcave discs",
+    "options": [
+      "Biconcave discs",
+      "Spherical cells",
+      "Irregular shapes",
+      "Rod-shaped",
+      "Concave discs"
+    ]
+  },
+  {
+    "question": "A patient has a congenital deficiency in factor XIII (fibrin-stabilizing factor). Which of following would analysis of his blood reveal?",
+    "correct": "Easily breakable clot",
+    "options": [
+      "Easily breakable clot",
+      "Unbreakable clot",
+      "Unchanged clot",
+      "Difficultly breakable clot"
+    ]
+  },
+  {
+    "question": "What are the \"Gate\" cells in the heart?",
+    "correct": "Cells in Purkinje fibers",
+    "options": [
+      "Cells in Purkinje fibers",
+      "Cells in AV node",
+      "Cells in his bundle",
+      "Cells in SA node"
+    ]
+  },
+  {
+    "question": "The greatest drop in systemic arterial blood pressure occurs in:",
+    "correct": "Pre-capillary resistance vessels",
+    "options": [
+      "Pre-capillary resistance vessels",
+      "Capacitance vessels",
+      "Venules",
+      "Arterioles"
+    ]
+  },
+  {
+    "question": "If the Purkinje fibers, situated distal to the A-V junction, become the pacemaker of the heart, what is the expected heart rate?",
+    "correct": "30/min",
+    "options": [
+      "30/min",
+      "50/min",
+      "60/min",
+      "70/min"
+    ]
+  },
+  {
+    "question": "The second heart sound (52) is a short burst of auditory vibrations of varying intensity, frequency, quality, and duration. It has 2 audible components, the aortic closure sound (A2) and the pulmonic closure sound (P2). Which are normally split on inspiration and virtually single on expiration. s2 is produced in part by hemodynamic events immediately following the closure of the aortic and pulmonic valves. s2 occurs during?",
+    "correct": "First rapid filling",
+    "options": [
+      "First rapid filling",
+      "Sovolumic relaxation",
+      "Protodiastole",
+      "Diastasis"
+    ]
+  },
+  {
+    "question": "The first reactive change to occur after haemorrhage is:",
+    "correct": "Tachycardia",
+    "options": [
+      "Tachycardia",
+      "Vasoconstriction",
+      "Raised cortisol",
+      "Raised adrenaline"
+    ]
+  },
+  {
+    "question": "Which phase of the cardiac action potential is responsible for the refractory period?",
+    "correct": "Plateau",
+    "options": [
+      "Plateau",
+      "Depolarization",
+      "Hyperpolarization",
+      "Rapid repolarization",
+      "Resting phase"
+    ]
+  },
+  {
+    "question": "A hospitalized patient has an ejection fraction of 0.4, a heart rate of 95 beats/min, and a cardiac output of 3.5 L/min. What is the patient's end-diastolic volume?",
+    "correct": "92ml",
+    "options": [
+      "92ml",
+      "37ml",
+      "55ml",
+      "14 ml"
+    ]
+  },
+  {
+    "question": "lncisura\" of the arterial pulse corresponds to:",
+    "correct": "Closure of the aortic valve",
+    "options": [
+      "Closure of the aortic valve",
+      "First heart sound",
+      "lsovolumetric relaxation",
+      "Third heart sound"
+    ]
+  },
+  {
+    "question": "Baroreoceptors are very important in the short-term control of arterial pressure. Activation of the reflex allows for rapid adjustments in blood pressure in response to abrupt changes in posture, blood volume, cardiac output, or peripheral resistance during exercise. If both the carotids are occluded proximal to the carotid bifurcation, what would it cause?",
+    "correct": "BP and = heart rate",
+    "options": [
+      "BP and = heart rate",
+      "\u2193 BP and \u2193 heart rate",
+      "\u2191BP and \u2193 heart rate",
+      "\u2191BP and \u2191heart rate"
+    ]
+  },
+  {
+    "question": "Pleural pressure is positive in:",
+    "correct": "End of forced expiration",
+    "options": [
+      "End of forced expiration",
+      "End of expiration",
+      "End of inspiration",
+      "Start or beginning of inspiration"
+    ]
+  },
+  {
+    "question": "Non-respiratory lung functions are many and varied. Active roles include active defense mechanisms, heme fluency, lipid metabolism, and biological interactions with plasma. Which of the following is not a metabolic function of the lung?",
+    "correct": "Inactivation of vasopressin",
+    "options": [
+      "Inactivation of vasopressin",
+      "Inactivation of bradykinin",
+      "Formation of angiotensin II",
+      "Synthesis of surfactant"
+    ]
+  },
+  {
+    "question": "How many the partial pressure of O2 at atmosphere pressure of 760 mm of Hg:",
+    "correct": "160 mm of Hg",
+    "options": [
+      "160 mm of Hg",
+      "76 mm of Hg",
+      "120 mm of Hg",
+      "140 mm of Hg"
+    ]
+  },
+  {
+    "question": "Which of the following is used to measure the resistance in small airways:",
+    "correct": "Mid expiratory flow rate",
+    "options": [
+      "Mid expiratory flow rate",
+      "FEV1",
+      "Vital capacity",
+      "Closing volume"
+    ]
+  },
+  {
+    "question": "Which of the following is not stimulated Carotid body",
+    "correct": "Anaemic hypoxia",
+    "options": [
+      "Anaemic hypoxia",
+      "Hypoxic hypoxia",
+      "Stagnant hypoxia",
+      "Histotoxic hypoxia"
+    ]
+  },
+  {
+    "question": "Lung capacity or total lung capacity (TLC) is the volume of air in the lungs upon the maximum effort of inspiration. Among healthy adults, the average lung capacity is about 6 liters. Age, gender, body composition, and ethnicity are factors affecting the different ranges of lung capacity among individuals. TLC rapid increases from birth to adolescence and plateaus at around 25 years old. The Total lung capacity depends upon which one of the following?",
+    "correct": "Elasticity properties of the lung",
+    "options": [
+      "Elasticity properties of the lung",
+      "Surface tension of the lung",
+      "Size of airways of the lung",
+      "Surfactant realizing of the lung"
+    ]
+  },
+  {
+    "question": "The conducting airway is made up of a variety of specialized cells that provide more than simply a conduit for air to reach the lung. The mucosal epithelium is attached to a thin basement membrane and beneath this, the lamina propria. Collectively these are referred to as the \"airway mucosa.\" Which of the following is referred to be conducting zone of the respiratory system?",
+    "correct": "Oth generation to 16th generation of airways",
+    "options": [
+      "Oth generation to 16th generation of airways",
+      "1st generation of airways",
+      "0th generation to 23rd generation of airways",
+      "16th to 23rd generation of airways"
+    ]
+  },
+  {
+    "question": "Pulmonary vasoconstriction is a physiological phenomenon and mechanism in response to alveolar hypoxia or low o2 partial pressures in the pulmonary arterioles and, to some extent, the pulmonary venules. Pulmonary vasoconstriction redirects blood flow within the vasculature away from poorly ventilated parts of the lungs towards better-ventilated portions. The most potent vasoconstrictor of the pulmonary artery is?",
+    "correct": "Hypoxia",
+    "options": [
+      "Hypoxia",
+      "Hypercapnia",
+      "Hyperoxia",
+      "Hypocapnia"
+    ]
+  },
+  {
+    "question": "Which type of hypoxia does not stimulate peripheral chemoreceptors?",
+    "correct": "Anemic",
+    "options": [
+      "Anemic",
+      "Histotoxic",
+      "Stagnant",
+      "Hypoxic"
+    ]
+  },
+  {
+    "question": "T3 has much greater biological activity than T4 and is specifically generated at its site of action in peripheral tissues by deiodination of T4. Both hormones are iodine containing amino acids. By which of the following types of transport across the cell membrane are iodide ions transported into the thyroid gland?",
+    "correct": "Receptor-mediated endocytosist",
+    "options": [
+      "Receptor-mediated endocytosist",
+      "Simple diffusion",
+      "Pinocytosis",
+      "Active transport"
+    ]
+  },
+  {
+    "question": "Which of the following hormones isn't depressed when hypothalamic function decreases?",
+    "correct": "Prolactine",
+    "options": [
+      "Prolactine",
+      "Growth hormon",
+      "TSH",
+      "ACTH"
+    ]
+  },
+  {
+    "question": "In which of the following glands is the sodium-iodide symporter not present?",
+    "correct": "Adrenal glands",
+    "options": [
+      "Adrenal glands",
+      "Thyroid glands",
+      "Mammary glands",
+      "Salivary glands"
+    ]
+  },
+  {
+    "question": "Which set of the following hormones have nuclear receptor ?",
+    "correct": "Estrogen, Thyroid",
+    "options": [
+      "Estrogen, Thyroid",
+      "Estrogen, thyroxin & glucagon",
+      "Estrogen, thyroxin & TSH",
+      "Retinoic acid, thyroxin & Luteinizing hormone (LH)"
+    ]
+  },
+  {
+    "question": "In vertebrate anatomy, the pituitary gland, or hypophysis, is an endocrine gland, about the size of a pea and weighing 0.5 grams (0.018 oz) in humans. Which anterior pituitary hormone plays a major role in the regulation of a nonendocrine target gland?",
+    "correct": "Prolactin",
+    "options": [
+      "Prolactin",
+      "TSH",
+      "ACTH",
+      "FSH"
+    ]
+  },
+  {
+    "question": "A man eats a low-carbohydrate meal that is rich in proteins containing the amino acids that stimulate insulin secretion. Which f the following response accounts for the absence of hypoglycemia?",
+    "correct": "Stimulation of glucagon secretion",
+    "options": [
+      "Stimulation of glucagon secretion",
+      "Suppression of somatomedin C secretion",
+      "Stimulation of cortisol secretion",
+      "Suppression of GH"
+    ]
+  },
+  {
+    "question": "A 45-year-old Indian immigrant presents to the physician with significantly enlarged thyroid gland. Serum T3/T4 levels are decreased. Iodine deficiency is suspected. Which of the following is the function of thyroid peroxidase?",
+    "correct": "Oxidation of iodide",
+    "options": [
+      "Oxidation of iodide",
+      "Uptake of Na+-Iodide",
+      "Synthesis of iodide",
+      "Deiodination of Iodo-tyrosine"
+    ]
+  },
+  {
+    "question": "Which of the following is the main target organ for the hormone adrenocorticotropic hormone (ACTH)?",
+    "correct": "Adrenal cortex",
+    "options": [
+      "Adrenal cortex",
+      "Kidneys",
+      "Liver",
+      "Pancrease",
+      "ovary"
+    ]
+  },
+  {
+    "question": "What is the primary role of antidiuretic hormone (ADH)?",
+    "correct": "Promoting water reabsorption in the kidneys",
+    "options": [
+      "Promoting water reabsorption in the kidneys",
+      "Stimulating the release of glucose from the liver",
+      "Reducing blood glucose levels",
+      "Increasing heart rate and blood pressure",
+      "Stimulating the secretion of cortisol from the adrenal glands"
+    ]
+  },
+  {
+    "question": "Which of the following hormones has a permissive action at the onset of puberty?",
+    "correct": "leptin",
+    "options": [
+      "leptin",
+      "Insulin",
+      "GnRH",
+      "Growth hormone"
+    ]
+  },
+  {
+    "question": "Which of the following hormones is mediated anabolic action on protein?",
+    "correct": "Testosterone",
+    "options": [
+      "Testosterone",
+      "Insulin",
+      "ACTH",
+      "TSH"
+    ]
+  },
+  {
+    "question": "Which types of receptors present in testes?",
+    "correct": "FSH",
+    "options": [
+      "FSH",
+      "LH",
+      "prolactin",
+      "GnRH"
+    ]
+  },
+  {
+    "question": "Which of the following hormones concentration controls by LH in men?",
+    "correct": "Testosterone",
+    "options": [
+      "Testosterone",
+      "Prolactin",
+      "Estrogen",
+      "Oxytocin"
+    ]
+  },
+  {
+    "question": "When will be ovulation in women with 28-day cycle?",
+    "correct": "14 days before menstruation",
+    "options": [
+      "14 days before menstruation",
+      "5 days before menstruation",
+      "10 days before menstruation",
+      "25 days before menstruation"
+    ]
+  },
+  {
+    "question": "Which of the following is the dominant hormone in the luteal phase?",
+    "correct": "Progesterone",
+    "options": [
+      "Progesterone",
+      "Estrogen",
+      "Prolactin",
+      "Oxytocin"
+    ]
+  },
+  {
+    "question": "A 30-year-old pregnant woman at 8 weeks gestation presents with nausea, vomiting, and breast tenderness. Which hormonal change is most likely responsible for these symptoms?",
+    "correct": "Increased estrogen",
+    "options": [
+      "Increased estrogen",
+      "Decreased progesterone",
+      "Increased prolactin",
+      "Decreased hCG",
+      "Increased oxytocin"
+    ]
+  },
+  {
+    "question": "A woman is in labor and experiencing strong uterine contractions. The release of which hormone is most likely contributing to both uterine contractions and milk ejection?",
+    "correct": "Oxytocin",
+    "options": [
+      "Oxytocin",
+      "Estrogen",
+      "Prolactin",
+      "Relaxin",
+      "Progesterone"
+    ]
+  },
+  {
+    "question": "Where are short-chain fatty acids which produced by bacteria maximally absorbed?",
+    "correct": "Colon",
+    "options": [
+      "Colon",
+      "Jejunum",
+      "Ileum",
+      "Duodenum"
+    ]
+  },
+  {
+    "question": "How much bile is secreted per day?",
+    "correct": "Secretion 800-1000 ml/Day",
+    "options": [
+      "Secretion 800-1000 ml/Day",
+      "Secretion 200-500 ml/Day",
+      "Secretion 50 -80 ml/Day",
+      "Secretion 100-150 ml/Day"
+    ]
+  },
+  {
+    "question": "Which of the following activated salivary amylase?",
+    "correct": "Na+",
+    "options": [
+      "Na+",
+      "K+",
+      "HCO3-",
+      "Cl-"
+    ]
+  },
+  {
+    "question": "Which of the following is not a function of gastrin?",
+    "correct": "Gastric secretion increase",
+    "options": [
+      "Gastric secretion increase",
+      "Auguments the action of CCK",
+      "Contraction of pyloric sphincter",
+      "Stimulate bicarbonate secretion"
+    ]
+  },
+  {
+    "question": "Which of the following does not increased absorption of calcium from gut?",
+    "correct": "High sodium in diet",
+    "options": [
+      "High sodium in diet",
+      "Lactose in diet",
+      "Calcium rich food in diet",
+      "Protein in diet"
+    ]
+  },
+  {
+    "question": "Which of the following is not secreted by the pancreas?",
+    "correct": "Pepsinogen",
+    "options": [
+      "Pepsinogen",
+      "Procarboxypeptidase",
+      "Trypsinogen",
+      "Phospholipase A"
+    ]
+  },
+  {
+    "question": "Gastric secretion is stimulated by the act of eating (cephalic phase) and the arrival of food in the stomach (gastric phase). The arrival of the food in the intestine also controls gastric secretion (intestinal phase). Gastric secretion of acid stimulation of the oral and gastric vagal afferents. Efferent vagal pathways synapse with submucous plexus neurons, which innervate secretory cells via several important bioactive molecules, including gastrin, histamine, and somatostatin. Which of the following does not secreted within the stomach?",
+    "correct": "Trypsin",
+    "options": [
+      "Trypsin",
+      "Intrinsic factor",
+      "Lipase",
+      "Mucus"
+    ]
+  },
+  {
+    "question": "Endopeptidases are a group of hydrolases that catalyze the hydrolysis of peptidic bonds, and thus, hydrolyze proteins. These enzymes are also very chemo-, regio- and enantioselective, which are active under soft reaction conditions (pH 6-8) and are easily handled biocatalysts that do not require the presence of cofactors. They break peptide bonds of nonterminal amino acids (i.e. within the molecule). For this reason, endopeptidases cannot break down peptides into monomers. They are usually very specific for certain amino acids. Which of the following are not endopeptidases?",
+    "correct": "Carboxypeptidases",
+    "options": [
+      "Carboxypeptidases",
+      "Chymotrypsin",
+      "Elastase",
+      "Trypsin"
+    ]
+  },
+  {
+    "question": "What doesn\u2019t lie in renal medulla",
+    "correct": "Juxta glomerular apparatus",
+    "options": [
+      "Juxta glomerular apparatus",
+      "Collecting duct",
+      "Loop of Henle",
+      "Vasa recta"
+    ]
+  },
+  {
+    "question": "Which of the following is not an effect of Angiotensin II?",
+    "correct": "Increased diameter of blood vessels",
+    "options": [
+      "Increased diameter of blood vessels",
+      "Increased of Aldosterone secretion",
+      "Increased ADH secretion",
+      "Increased of thirst"
+    ]
+  },
+  {
+    "question": "Where does urine acidification occur?",
+    "correct": "Proximal convoluted tubule",
+    "options": [
+      "Proximal convoluted tubule",
+      "Distal convoluted tubule",
+      "Loop of Henle",
+      "Collecting duct"
+    ]
+  },
+  {
+    "question": "Which of the following is responsible for neutralization hydrochloric acid?",
+    "correct": "Bicarbonates",
+    "options": [
+      "Bicarbonates",
+      "Plasma protein",
+      "Phosphates",
+      "Nitrates"
+    ]
+  },
+  {
+    "question": "Relaxation of mesangial cells of kidney is brought about by:",
+    "correct": "ANP",
+    "options": [
+      "ANP",
+      "PGF2",
+      "Vasopressin",
+      "Endothelin"
+    ]
+  },
+  {
+    "question": "ADH primarily affects the ability of the kidney to reabsorb water; when present, ADH induces expression of water transport proteins in the late distal tubule and collecting duct to increase water reabsorption. Which of the following results in increase ADH activity?",
+    "correct": "Hyponatremia",
+    "options": [
+      "Hyponatremia",
+      "Hyperkalemia",
+      "Hyperchloremia",
+      "Hypocalcemia"
+    ]
+  },
+  {
+    "question": "Experimental studies are conducted to study renal tubular transport proteins. A new drug is developed that specifically and completely inhibits glucose transport in proximal renal tubules. Which of the following substances has the same clearance as these drug?\"",
+    "correct": "Inulin",
+    "options": [
+      "Inulin",
+      "PAH",
+      "Potassium",
+      "Sodium"
+    ]
+  },
+  {
+    "question": "Which of the following is effective renal plasma flow (in ml/ min) in human\u2019s?",
+    "correct": 625,
+    "options": [
+      625,
+      425,
+      525,
+      725
+    ]
+  },
+  {
+    "question": "Which of the following are not features of exercise?",
+    "correct": "Left shift of Hb-O2 dissociation curve",
+    "options": [
+      "Left shift of Hb-O2 dissociation curve",
+      "Rightward shift of Hb-O2 dissociation curve",
+      "Sigmoidal shape of Hb-O2 dissociation curve",
+      "S-shape of Hb-O2 dissociation cruve"
+    ]
+  },
+  {
+    "question": "What is the main cause of increased blood flow to exercising muscles?",
+    "correct": "Vasodilatation due to local metabolites",
+    "options": [
+      "Vasodilatation due to local metabolites",
+      "Vasodilatation due to hormonal activity",
+      "Vasodilatation due to increased sympathetic discharge to peripheral vessels",
+      "Vasodilatation due to increased parasympathetic discharge to peripheral vessels"
+    ]
+  },
+  {
+    "question": "Which Exercise is also prescribed as an adjuvant treatment for depression. Most probably is acts by?",
+    "correct": "Raising endorphin levels",
+    "options": [
+      "Raising endorphin levels",
+      "Raising dopamine levels",
+      "Raising serotonin levels",
+      "Raising GABA levels"
+    ]
+  },
+  {
+    "question": "Which of the following is not seen in strenuous exercise?",
+    "correct": "Increases of calcium concentration",
+    "options": [
+      "Increases of calcium concentration",
+      "Increases of Oxygen storage",
+      "Increases of glycogen storage",
+      "Increases size of mitochondria"
+    ]
+  },
+  {
+    "question": "Vigorous physical activity (such as exercise or hard labor) increases the body's demand for oxygen. The first-line physiologic response to this demand is an increase in heart rate, breathing rate, and depth of breathing. During heavy exercise, dyspnea will appear when the dyspneic index will fall just below?",
+    "correct": 0.7,
+    "options": [
+      0.7,
+      0.85,
+      0.6,
+      0.4
+    ]
+  },
+  {
+    "question": "Which of following energy systems uses almost entirely in muscle metabolism during 100-meter dash",
+    "correct": "Phosphagen system",
+    "options": [
+      "Phosphagen system",
+      "Aerobic system",
+      "Glycogen-Lactic acid system",
+      "ATP system"
+    ]
+  },
+  {
+    "question": "What is the primary function of the immune system? ",
+    "correct": "Defense against pathogens ",
+    "options": [
+      "Defense against pathogens ",
+      "Digestion ",
+      "Respiration ",
+      "Blood circulation",
+      "Temperature regulation "
+    ]
+  },
+  {
+    "question": "What is the term for the ability of the immune system to remember and respond more effectively to a previously encountered pathogen? ",
+    "correct": "Immune memory ",
+    "options": [
+      "Immune memory ",
+      "Adaptive immunity.",
+      "Inflammation ",
+      "Passive immunity ",
+      "Immune suppression"
+    ]
+  },
+  {
+    "question": "Which of the following is not seen in humans?",
+    "correct": "Estrous cycle",
+    "options": [
+      "Estrous cycle",
+      "Menstrual cycle",
+      "Endometrial cycle",
+      "Ovarian cycle"
+    ]
+  },
+  {
+    "question": "Opioids are a commonly used analgesic that can exert their effects at various places in the CNS including in the spinal cord and dorsal root ganglia. lnterneurons that utilize the neurotransmitter enkephalin to inhibit afferent pain signals are most likely to be found in which region of the central nervous system?",
+    "correct": "Dorsal horn of spinal cord",
+    "options": [
+      "Dorsal horn of spinal cord",
+      "Postcentral gyrus",
+      "Precentral gyrus",
+      "Ventral horn of spinal cord"
+    ]
+  },
+  {
+    "question": "The main difference between superficial and deep or visceral pain is the nature of the pain evoked by noxious stimuli. Pain can be elicited experimentally from the periosoteum and ligaments by injecting hypertonic saline into them. Which statement concerning visceral pain signals is correct?",
+    "correct": "They are transmitted along sensory fibers that course mainly with sympathetic nerves in the abdomen and thorax",
+    "options": [
+      "They are transmitted along sensory fibers that course mainly with sympathetic nerves in the abdomen and thorax",
+      "They are not stimulated by ischemia in visceral organs",
+      "They are transmitted only by the lightly myelinated \u03b4-type A sensory fibers",
+      "They are typically well localized"
+    ]
+  },
+  {
+    "question": "Which The maximum contractile force of any muscle per square cm cross-sectional area is?",
+    "correct": "215-17 kg/cm2",
+    "options": [
+      "215-17 kg/cm2",
+      "5-6 kg/cm2",
+      "10-12 kg/cm2",
+      "3-4 kg/cm"
+    ]
+  },
+  {
+    "question": "Nonshivering thermogenesis was originally defined as a cold-induced increase in heat production not associated with the muscle activity of shivering. Nonshivering thermogenesis in adults is due to?",
+    "correct": "Noradrenaline",
+    "options": [
+      "Noradrenaline",
+      "Brown fat between the shoulders",
+      "Thyroid hormone",
+      "Muscle metabolism"
+    ]
+  },
+  {
+    "question": "Malignant hyperthermia - The major features of the syndrome- hyperthermia, muscle rigidity, and an increased metabolic rate led early investigators to suggest that MH is a disease of abnormal regulation of muscle contraction. Treatment is with dantrolene and rapid cooling along with other supportive measures. In malignant hyperthermia, excess heat production is due to?",
+    "correct": "Mitochondrial thermogenesis",
+    "options": [
+      "Mitochondrial thermogenesis",
+      "Increased muscle metabolism by an excess of calcium ions",
+      "Increased sympathetic discharge",
+      "Thermic effect of food"
+    ]
+  },
+  {
+    "question": "For scientific and clinical purposes, pain is defined by the International Association for the Study of Pain (IASP) as \"an unpleasant sensory and emotional experience associated with actual or potential tissue damage, or described in terms of such damage.\" The highest degree of pain localization comes from which of the following?",
+    "correct": "Simultaneous stimulation of free nerve endings and C fibers",
+    "options": [
+      "Simultaneous stimulation of free nerve endings and C fibers",
+      "Stimulation of free nerve endings by bradykinin and A fibers",
+      "Stimulation of free nerve endings by serotonin and A\u03b2 fibers",
+      "Stimulation of free nerve endings and B fibers"
+    ]
+  },
+  {
+    "question": "Clathrins used in:",
+    "correct": "Receptor mediated endocytosis",
+    "options": [
+      "Receptor mediated endocytosis",
+      "Exocytosis",
+      "Cell to cell adhesion",
+      "Plasma membrane"
+    ]
+  },
+  {
+    "question": "Receptors on cell membrane that activate ion channel after binding with agonists are",
+    "correct": "Nicotinic cholinergic",
+    "options": [
+      "Nicotinic cholinergic",
+      "Muscarinic cholinergic",
+      "Opioid \u03bc receptors",
+      "GABAB receptors"
+    ]
+  },
+  {
+    "question": "Energy producing enzymes are located in:",
+    "correct": "Mitochondria",
+    "options": [
+      "Mitochondria",
+      "Ribosomes",
+      "Golgi apparatus",
+      "Rough endoplasmic reticulum"
+    ]
+  },
+  {
+    "question": "Which of the following is an example of a normal physiologic process that uses a positive feedback loop?",
+    "correct": "Childbirth",
+    "options": [
+      "Childbirth",
+      "Temperature regulation",
+      "Urine formation regulation",
+      "Blood pressure regulation",
+      "Regulation of fluid balance"
+    ]
+  },
+  {
+    "question": "What is the target of calcium channels blockers:",
+    "correct": "Vascular smooth muscle",
+    "options": [
+      "Vascular smooth muscle",
+      "Skeletal muscle",
+      "Cardiac muscles",
+      "Visceral smooth muscle"
+    ]
+  },
+  {
+    "question": "Cell junction in single unit type of smooth muscle is:",
+    "correct": "Gap junction",
+    "options": [
+      "Gap junction",
+      "Macula adherens",
+      "Tight junction",
+      "Zonula adherens"
+    ]
+  },
+  {
+    "question": "Which of the following does not apply to the layers of connective tissue of skeletal muscles?",
+    "correct": "Penmyslum",
+    "options": [
+      "Penmyslum",
+      "Sarcolemma",
+      "Endomysium",
+      "Epimysrum"
+    ]
+  },
+  {
+    "question": "Which of the following is a regulatory muscle protein",
+    "correct": "Tropomyosin",
+    "options": [
+      "Tropomyosin",
+      "Actin",
+      "Tropomodulin",
+      "Dystrophin"
+    ]
+  },
+  {
+    "question": "The EPP is actually made up of multiple MEPPs, which arise when an activated terminal releases hundreds of neurotransmitter quanta. A series of EPPs, or a number of them stimulated simultaneously at many synapses, can then bring the cell to the threshold of the action potential. This combined action of EPPs is called summation. Miniature end plate potential (MEPP) is",
+    "correct": "Responsible for excitation of the muscle",
+    "options": [
+      "Responsible for excitation of the muscle",
+      "Recorded in resting muscle",
+      "Inhibited by anticholinesterases",
+      "Of 5 to 10 mV amplitude"
+    ]
+  },
+  {
+    "question": "Motor area in cerebrum is mainly associated with:",
+    "correct": "Performing all voluntary movements",
+    "options": [
+      "Performing all voluntary movements",
+      "Performing an involuntary movement",
+      "Executing fine movements",
+      "Controlling all motor activity"
+    ]
+  },
+  {
+    "question": "Thalamus relay all sensory sensations except:",
+    "correct": "Olfaction",
+    "options": [
+      "Olfaction",
+      "Temperature",
+      "Touch",
+      "Auditory"
+    ]
+  },
+  {
+    "question": "In a neuron, graded electro genesis occurs at:",
+    "correct": "Axon",
+    "options": [
+      "Axon",
+      "Initial segment",
+      "Soma-dendritic zone",
+      "Nerve ending"
+    ]
+  },
+  {
+    "question": "Which of the following has direct connections with the Flocculonodular lobe?",
+    "correct": "Vestibular nucleus",
+    "options": [
+      "Vestibular nucleus",
+      "Inferior olivary nucleus",
+      "Red nucleus",
+      "Dentate nucleus"
+    ]
+  },
+  {
+    "question": "A 56 yr. old woman presents with abnormal movements of the limbs. A lesion of I the globus pallidus is suspected. Which of the following conditions can be suspected?",
+    "correct": "Athetosis",
+    "options": [
+      "Athetosis",
+      "Chorea",
+      "Hemiballismus",
+      "Parkinsonism"
+    ]
+  },
+  {
+    "question": "Which part of the basal ganglia receives the afferent input?",
+    "correct": "Striatum",
+    "options": [
+      "Striatum",
+      "Globus pallidus",
+      "Striatum nigra",
+      "Subthalamic nuclei"
+    ]
+  },
+  {
+    "question": "Which of the following sensations doesn\u2019t transmits by Spinothalamic tract:",
+    "correct": "Proprioception",
+    "options": [
+      "Proprioception",
+      "Pain",
+      "Temperature",
+      "Touch"
+    ]
+  },
+  {
+    "question": "Which of the following are climbing fibers?",
+    "correct": "Olivocerebellar fibers",
+    "options": [
+      "Olivocerebellar fibers",
+      "Spinocerebellar fibers",
+      "Pontocerebellar fibers",
+      "Vestibulocerebellar fibers"
+    ]
+  },
+  {
+    "question": "Myelin loss can occur as a result of direct damage to the myelin sheath or indirectly through a primarily genetic disorder or attack during inflammation or toxic exposure. In addition, axon degeneration will lead to secondary loss of the myelin sheath (as in Wallerian degeneration). In genetic disease in which there is a failure of normal myelination, the CNS white matter is either hypomyelinated or dysmyelinated. The Myelin in CNS is formed by which of the following cells?",
+    "correct": "Microglia",
+    "options": [
+      "Microglia",
+      "Schwann cells",
+      "Oligodendrocytes",
+      "Astrocytes"
+    ]
+  },
+  {
+    "question": "Which is the body\u2019s largest organ?",
+    "correct": "Skin",
+    "options": [
+      "Skin",
+      "Brain",
+      "Large intestine",
+      "Liver",
+      "Tongue"
+    ]
+  },
+  {
+    "question": "Which of the are referred to as the layers of the skin?",
+    "correct": "Dermis and epidermis",
+    "options": [
+      "Dermis and epidermis",
+      "Hair and sweat glans",
+      "Pores and sebarous gland",
+      "None of the above",
+      "Retina"
+    ]
+  },
+  {
+    "question": "Whatare the sensory receptors in your skin that are specialized to report information about changes in temperature are the",
+    "correct": "temperature changes.",
+    "options": [
+      "temperature changes.",
+      "hair follicle receptors.",
+      "Meissner\u2019s corpuscles.",
+      "Pacinian corpuscles.",
+      "neuropsychology."
+    ]
+  },
+  {
+    "question": "When you drink coffee, your perceptual experience is a combination of information from your taste and smell receptors?",
+    "correct": "taste",
+    "options": [
+      "taste",
+      "flavor",
+      "smell",
+      "gustation",
+      "temperature."
+    ]
+  },
+  {
+    "question": "When the sense of taste and smell depend on cells designed to detect",
+    "correct": "chemicals.",
+    "options": [
+      "chemicals.",
+      "vibrations.",
+      "temperature",
+      "air pressure.",
+      "Taste buds"
+    ]
+  },
+  {
+    "question": "What is the function of a sensory receptor to",
+    "correct": "transducer",
+    "options": [
+      "transducer",
+      "frequency modifier",
+      "electrical signal",
+      "action potential",
+      "are fast to adapt"
+    ]
+  },
+  {
+    "question": "The structure(s) associated with sensing changes in the position of the head are:",
+    "correct": "The semicircular canals",
+    "options": [
+      "The semicircular canals",
+      "The cochlea",
+      "The fovea",
+      "The incus and stapes",
+      "The ossicles"
+    ]
+  },
+  {
+    "question": "Information from both ears converges on each superior olive and beyond this, most of the neurons respond to inputs from both sides. In humans, low tones are represented antero-laterally and high tones posteromedially in the auditory cortex. Which one of the following structures is not a part of the auditory pathway?",
+    "correct": "Medial lemniscus",
+    "options": [
+      "Medial lemniscus",
+      "Lateral lemniscus",
+      "Inferior colliculus",
+      "Medial geniculate body"
+    ]
+  },
+  {
+    "question": "Which of the following describes the process of hemostasis following a vascular injury?",
+    "correct": "Formation of a platelet plug followed by coagulation",
+    "options": [
+      "Formation of a platelet plug followed by coagulation",
+      "Direct activation of clotting factors without platelet involvement",
+      "Vasodilation leading to increased blood flow",
+      "Decrease in blood cell production by the bone marrow",
+      "Expansion of blood vessels to reduce flow"
+    ]
+  },
+  {
+    "question": "Which of the following characters describes the Rh factor?",
+    "correct": "A protein on the surface of red blood cells",
+    "options": [
+      "A protein on the surface of red blood cells",
+      "A carbohydrate antigen",
+      "A blood type system independent of the ABO system",
+      "A type of antibody found in plasma",
+      "A type of antigen which is present in the cell"
+    ]
+  },
+  {
+    "question": "The average normal hemoglobin content of blood is 16 g/dl in men and 14 g/dl in women, all of it in red cells. In the body of a 70-kg man, there are about 900 g of hemoglobin, and 0.3 g of hemoglobin is destroyed and 0.3 g synthesized every hour. The heme portion of the hemoglobin molecule is synthesized from glycine and Succinyl-CoA. Which of the following is Hemoglobin estimation is done by all of the following, except?",
+    "correct": "Drabkins method",
+    "options": [
+      "Drabkins method",
+      "Sahli's method",
+      "Spectrophotometry",
+      "Wintrobe method"
+    ]
+  },
+  {
+    "question": "Erythropoiesis is the process in which new erythrocytes are produced. These new erythrocytes replace the oldest erythrocytes (normally about one percent) that are phagocytosed and destroyed each day. Erythroblasts require folate and vitamin 812 for proliferation during their differentiation. Which of the following function that is critical to hematopoiesis, requires Vit 812 and folate?",
+    "correct": "Support terminal differentiation of erythroid and myeloid cells",
+    "options": [
+      "Support terminal differentiation of erythroid and myeloid cells",
+      "Serve as cofactors for iron uptake",
+      "Support porphyrin production",
+      "D. Support production of thymidine triphosphate"
+    ]
+  },
+  {
+    "question": "The cytoskeletons of the leukocytes are reorganized in such a way that the leukocytes are spread out over the endothelial cells. In this form, leukocytes extend pseudopodia and pass through gaps between endothelia l cells. Transmigration of the leukocyte occurs as PECAM proteins, found on the leukocyte and endothelia cell surfaces, interact and effectively pull the cell through the endothelium. The entire process of blood vessel escape is known as diapedesis. Once in the interstitial fluid, leukocytes migrate along a chemotactic gradient towards the site of injury or infection. In which of the following does transmigration of leukocytes occur in response to infectious agents?",
+    "correct": "Venules",
+    "options": [
+      "Venules",
+      "Lymphatic ducts",
+      "Arterioles",
+      "Inflamed arteries"
+    ]
+  },
+  {
+    "question": "The concept of blood coagulation dates back to 1960s when Davie, Ratnoff, and Macfarlane described the \"waterfall\" and \"cascade\" theories outlining the fundamental principle of a cascade of proenzymes leading to activation of downstream enzymes. Haemostasis, defined as the arrest of bleeding, comes from Greek, 'haeme' meaning blood and 'stasis' meaning to stop. Which of the following pathways causes coagulation of blood entering the capillary?",
+    "correct": "Fibrin stabilization",
+    "options": [
+      "Fibrin stabilization",
+      "Intrinsic pathway",
+      "Constriction of the blood vessels",
+      "Extrinsic pathway"
+    ]
+  },
+  {
+    "question": "Which of the following describes the affinity of fetal hemoglobin (HbF) compared to adult hemoglobin (HbA)?",
+    "correct": "HbF has a higher affinity for oxygen",
+    "options": [
+      "HbF has a higher affinity for oxygen",
+      "HbF has a lower affinity for oxygen",
+      "HbF binds CO2 more effectively",
+      "HbA and HbF have equal affinities",
+      "HbF does not transport oxygen"
+    ]
+  },
+  {
+    "question": "Which of the following physical characteristics is most notable for platelets?",
+    "correct": "Small, disc-shaped, and anucleate",
+    "options": [
+      "Small, disc-shaped, and anucleate",
+      "Large, spherical, and multinucleate",
+      "Biconcave and flexible",
+      "Irregular and amoeboid",
+      "Tube-shaped and biconvex"
+    ]
+  },
+  {
+    "question": "Which heart sound heard immediately before the first heart sound when atrial pressure is high:",
+    "correct": "Fourth",
+    "options": [
+      "Fourth",
+      "Second",
+      "Third",
+      "First"
+    ]
+  },
+  {
+    "question": "The cardiac muscle has the unique property of contracting and repolarizing faster when the heart rate is high and the duration of systole decreases from 0.27 s at a heart rate of 65 to 0.16 s at a rate of 200 beats/min. Which is the fastest conducting part of the heart?",
+    "correct": "Purkinje fibers",
+    "options": [
+      "Purkinje fibers",
+      "AV node",
+      "Bundle branches",
+      "SA node"
+    ]
+  },
+  {
+    "question": "Because it has a prolonged action potential, cardiac muscle cannot contract in response to a second stimulus until near the end of the initial contraction. Therefore, cardiac muscle cannot be tetanized like skeletal muscle. Among the following, the last part of the ventricle to be depolarized is?",
+    "correct": "Epicardium of the base of LV",
+    "options": [
+      "Epicardium of the base of LV",
+      "Myocardium of the base of LV",
+      "Endocardium of the base of LV",
+      "Pericardium of the base of LV"
+    ]
+  },
+  {
+    "question": "Heart sounds are the noises generated by the beating heart and the resultant flow of blood through it. Specifically, the sounds reflect the turbulence created when the heart valves snap shut. In cardiac auscultation, an examiner may use a stethoscope to listen for these unique and distinct sounds that provide important auditory data regarding the condition of the heart. True statement about the heart sounds?",
+    "correct": "2 has higher frequency but shorter duration compared to S1",
+    "options": [
+      "2 has higher frequency but shorter duration compared to S1",
+      "S1 is of higher frequency and longer duration as compared to S2",
+      "S2 is of higher frequency and longer duration as compared to S1",
+      "S1 has higher frequency but shorter duration compared to S2"
+    ]
+  },
+  {
+    "question": "What percentage of ventricular filling occurs passively before atrial systole?",
+    "correct": 0.7,
+    "options": [
+      0.7,
+      0.2,
+      0.4,
+      0.9,
+      1
+    ]
+  },
+  {
+    "question": "What determines the end of the ventricular ejection phase?",
+    "correct": "Closure of the semilunar valves",
+    "options": [
+      "Closure of the semilunar valves",
+      "Opening of the AV valves",
+      "Opening of the semilunar valves",
+      "Atrial contraction",
+      "Ventricular relaxation begin"
+    ]
+  },
+  {
+    "question": "When capillary and interstitial hydrostatic pressures are 30 mm of Hg and 5 mm of Hg and colloid oncotic pressure of capillaries and interstitium are 25 mm of Hg and 5 mm of Hg, what is the Net Filtration Pressure?",
+    "correct": "5mmHg",
+    "options": [
+      "5mmHg",
+      "10 mm Hg",
+      "15 mm Hg",
+      "20mm Hg"
+    ]
+  },
+  {
+    "question": "The jugular venous pressure is usually assessed by observing the right side of the patient's neck. The normal mean jugular venous pressure, determined as the vertical distance above the midpoint of the right atrium, is 6 to 8 cm H20. Deviations from this normal range reflect either hypovolemia or impaired cardiac filling. 'Y' descent in the JVP is due to?",
+    "correct": "Atrial diastole",
+    "options": [
+      "Atrial diastole",
+      "Closure of the tricuspid valve",
+      "Opening of the tricuspid valve",
+      "lsovolumetric relaxation of right ventricle"
+    ]
+  },
+  {
+    "question": "When BP is measured by sphygmomanometry, the principle is 'balancing of pressure between the cuff and the brachial artery.' Which is true about the measurement of BP with sphygmomanometer versus intra-arterial pressure measurements?",
+    "correct": "More than intravascular pressure",
+    "options": [
+      "More than intravascular pressure",
+      "Less than intravascular pressure",
+      "Equal to intravascular pressure",
+      "Depends upon blood flow"
+    ]
+  },
+  {
+    "question": "Which of the following anatomical structures is not part of the conducting zone?",
+    "correct": "alveoli",
+    "options": [
+      "alveoli",
+      "pharynx",
+      "larinx",
+      "trachea",
+      "bronchiols"
+    ]
+  },
+  {
+    "question": "Which a section of the lung that receives its own tertiary bronchus is called",
+    "correct": "bronchopulmonary segment",
+    "options": [
+      "bronchopulmonary segment",
+      "pulmonary lobule",
+      "interpulmonary segment",
+      "respiratory segment",
+      "left lung"
+    ]
+  },
+  {
+    "question": "Smooth muscle cells are found beneath the epithelium and an enveloping connective tissue is likewise interspersed with cartilage that is more predominant in the portions of the conducting airway of greater caliber. Which part of airways has the maximum amount of smooth muscle, in relation to wall thickness:",
+    "correct": "Terminal bronchioles",
+    "options": [
+      "Terminal bronchioles",
+      "Bronchi",
+      "Trachea",
+      "Respiratory bronchioles"
+    ]
+  },
+  {
+    "question": "Which of the following are measuring with single breath nitrogen method?",
+    "correct": "Dead space volume",
+    "options": [
+      "Dead space volume",
+      "Expiratory reserve volume",
+      "Tidal volume",
+      "Inspiratory reserve volume"
+    ]
+  },
+  {
+    "question": "N2 washout (or Fowler's method) -A subject takes a breath of 100% o2 and exhales through a one-way valve measuring nitrogen content and volume. A plot of the N2 concentration (as a% of total gas) vs. expired volume is obtained by increasing the N2 concentration from zero to the percentage of N2 in the alveoli. Which of the following is measurement by Fowler's method?",
+    "correct": "Anatomic dead space",
+    "options": [
+      "Anatomic dead space",
+      "Mechanical dead space",
+      "Alveolar dead space",
+      "Physiologic dead space"
+    ]
+  },
+  {
+    "question": "Lung Compliance is defined as the change in lung volume produced by a unit change in transpulmonary pressure. It is represented by the gradient of the pressure-volume curve. Compliance is greatest during which stage of breathing?",
+    "correct": "Start of inspiration",
+    "options": [
+      "Start of inspiration",
+      "Start of expiration",
+      "End of inspiration",
+      "End of expiration"
+    ]
+  },
+  {
+    "question": "Airway resistance is not constant. Airway resistance is markedly affected by changes in the diameter of the airways. Therefore, diseases affecting the respiratory tract can increase airway resistance. Which of the following factors increases the resistance of the airways?",
+    "correct": "Inhaling cigarette smoke",
+    "options": [
+      "Inhaling cigarette smoke",
+      "Increased sympathetic stimulation of airway smooth muscle",
+      "Going to high altitude",
+      "Increasing lung volume above FRC"
+    ]
+  },
+  {
+    "question": "A 49-year-old man has a pulmonary embolism that completely blocks blood flow to his left lung. As a result, which of the following will occur?",
+    "correct": "Alveolar P02 in the left lung will be approximately equal to the P02 in inspired air",
+    "options": [
+      "Alveolar P02 in the left lung will be approximately equal to the P02 in inspired air",
+      "Systemic arterial P02 will be elevated",
+      "V/Q ratio in the left lung will be lower than in the right lung",
+      "Ventilation/perfusion (V/Q) ratio in the left lung will be zero"
+    ]
+  },
+  {
+    "question": "Diagnostic spirometry is used to assess a patient's lung function for purposes of comparison with a normal population. or with previous measures from the same patient. Important quantitation of lung function can be gleaned from the displacement of air volume during inspiration and/or expiration. Lung capacities refer to subdivisions that contain two or more volumes. What is the residual volume?",
+    "correct": "Total lung capacity minus vital capacity",
+    "options": [
+      "Total lung capacity minus vital capacity",
+      "Total lung capacity minus residual volume",
+      "Total lung capacity minus tidal volume",
+      "Total lung capacity minus functional residual capacity"
+    ]
+  },
+  {
+    "question": "The adrenal cortex is derived from mesoderm and begins posteromedial to the urogenital ridge. The adrenal medulla is derived from neural crest cells. These neural crest cells originate from the dorsal aorta. Clusters of chromaffin cells become the distinct medulla after birth. The adrenal gland first appears at 28-30 days post-conception. What is the secret adrenal medulla?",
+    "correct": "Epinephrine",
+    "options": [
+      "Epinephrine",
+      "Thyroid stimulating hormones",
+      "Sex hormones",
+      "Glucocorticoid"
+    ]
+  },
+  {
+    "question": "Which of the following has not attachment site in steroid hormone receptors?",
+    "correct": "Prolactin",
+    "options": [
+      "Prolactin",
+      "Estrogen",
+      "Progesterone",
+      "Testosterone"
+    ]
+  },
+  {
+    "question": "Which one of the following acts as a second messenger?",
+    "correct": "Ca2+",
+    "options": [
+      "Ca2+",
+      "Cl-",
+      "Mg2+",
+      "P043-"
+    ]
+  },
+  {
+    "question": "Glycoprotein hormones (GPHs) are the most complex molecules with hormonal activity. The GPHs exist only in vertebrates and appeared during evolution along with the pituitary. Which of the following is not a glycoprotein hormone?",
+    "correct": "ACTH",
+    "options": [
+      "ACTH",
+      "FSH",
+      "LH",
+      "Prolactin"
+    ]
+  },
+  {
+    "question": "In an experiment, a rat is infused with a small volume of a calcium chloride solution. Compared to the control condition, which of the following would result from the calcium load?",
+    "correct": "Increased formation of 24,25\u00b7 dihydroxycholecalciferoletion",
+    "options": [
+      "Increased formation of 24,25\u00b7 dihydroxycholecalciferoletion",
+      "Decreased secretion of calcitonin",
+      "Decreased formation of 24,25\u00b7 dihydroxycholecalciferol",
+      "Increased formation of calcitonin"
+    ]
+  },
+  {
+    "question": "Cortisol has a complex relationship with growth hormone: while chronic hypercortisolism leads to reduced growth hormone and reduced growth, small increases in cortisol stimulate growth hormone secretion and production. Cortisol and GH are most dissimilar in their metabolic effects on which of the following?",
+    "correct": "Protein synthesis in muscle",
+    "options": [
+      "Protein synthesis in muscle",
+      "Glucose uptake in peripheral tissues",
+      "Utilization of proteins and fats",
+      "Mobilization of fats"
+    ]
+  },
+  {
+    "question": "The release of growth hormone (GH) is primarily controlled by which of the following factors?",
+    "correct": "Negative feedback from insulin-like growth factors (IGFs)",
+    "options": [
+      "Negative feedback from insulin-like growth factors (IGFs)",
+      "Positive feedback from thyroid hormones",
+      "Negative feedback from cortisol",
+      "Direct control by sympathetic nervous system",
+      "Positive feedback from prolactin"
+    ]
+  },
+  {
+    "question": "The mechanism of action of steroid hormones involves which of the following steps?",
+    "correct": "Direct interaction with intracellular receptors to affect gene transcription",
+    "options": [
+      "Direct interaction with intracellular receptors to affect gene transcription",
+      "Binding to G-protein coupled receptors on the cell surface",
+      "Activation of second messengers like cAMP",
+      "Activation of tyrosine kinase receptors",
+      "Inhibition of the Na+/K+ pump"
+    ]
+  },
+  {
+    "question": "Which of the following hormones primarily acts by increasing the levels of cyclic AMP (cAMP) in the target cell?",
+    "correct": "Glucagon",
+    "options": [
+      "Glucagon",
+      "Thyroid hormone",
+      "Oxytocin",
+      "Testosterone",
+      "Aldosterone"
+    ]
+  },
+  {
+    "question": "Which of the following structures is responsible for secreting estrogen and progesterone after ovulation?",
+    "correct": "Corpus luteum",
+    "options": [
+      "Corpus luteum",
+      "Oocyte",
+      "Graafian follicle",
+      "Uterus",
+      "Vagina"
+    ]
+  },
+  {
+    "question": "Which of the following best describes the function of the endometrium?",
+    "correct": "It houses the fertilized egg and supports fetal development.",
+    "options": [
+      "It houses the fertilized egg and supports fetal development.",
+      "It protects the ovary from damage.",
+      "It stimulates the release of eggs from the ovary.",
+      "It produces estrogen and progesterone.",
+      "It serves as the site for sperm storage."
+    ]
+  },
+  {
+    "question": "Which of the following statements best describes the process of oogenesis?",
+    "correct": "Oogenesis produces a single viable ovum and polar bodies",
+    "options": [
+      "Oogenesis produces a single viable ovum and polar bodies",
+      "Oogenesis begins after birth and continues until menopause.",
+      "Oogenesis produces four viable eggs from one primary oocyte.",
+      "Oogenesis occurs continuously from birth to menopause without interruption.",
+      "Oogenesis produces sperm cells and eggs alternately."
+    ]
+  },
+  {
+    "question": "Which of the following is the correct sequence of events in the menstrual cycle?",
+    "correct": "Follicular phase \u2192 Ovulation \u2192 Luteal phase \u2192 Menstruation",
+    "options": [
+      "Follicular phase \u2192 Ovulation \u2192 Luteal phase \u2192 Menstruation",
+      "Ovulation \u2192 Follicular phase \u2192 Luteal phase \u2192 Menstruation",
+      "Menstruation \u2192 Follicular phase \u2192 Ovulation \u2192 Luteal phase",
+      "Luteal phase \u2192 Ovulation \u2192 Follicular phase \u2192 Menstruation",
+      "Ovulation \u2192 Luteal phase \u2192 Follicular phase \u2192 Menstruation"
+    ]
+  },
+  {
+    "question": "A decrease in sex hormone-binding globulin (SHBG) will have the maximum effect on which of the following?",
+    "correct": "Progesterone",
+    "options": [
+      "Progesterone",
+      "Testosterone",
+      "Estrogen",
+      "Prolactin"
+    ]
+  },
+  {
+    "question": "A woman presents with irregular menstrual cycles, and after testing, she has high levels of estrogen but low levels of progesterone. Which phase of the menstrual cycle is most likely disrupted?",
+    "correct": "Luteal phase",
+    "options": [
+      "Luteal phase",
+      "Menstrual phase",
+      "Follicular phase",
+      "Ovulatory phase",
+      "Proliferative phase"
+    ]
+  },
+  {
+    "question": "What causes the shedding of the endometrial lining during menstruation?",
+    "correct": "A decrease in progesterone levels",
+    "options": [
+      "A decrease in progesterone levels",
+      "A surge in estrogen levels",
+      "A surge in luteinizing hormone (LH)",
+      "A decrease in follicle-stimulating hormone (FSH)",
+      "ncreased production of human chorionic gonadotropin (hCG)"
+    ]
+  },
+  {
+    "question": "A woman has irregular menstrual cycles and increased androgen levels. Which hormone is most likely elevated in this condition?",
+    "correct": "Luteinizing hormone (LH)",
+    "options": [
+      "Luteinizing hormone (LH)",
+      "Estrogen",
+      "Progesterone",
+      "Follicle-stimulating hormone (FSH)",
+      "Prolactin"
+    ]
+  },
+  {
+    "question": "Which of the following hasn\u2019t high BMR range?",
+    "correct": "Females",
+    "options": [
+      "Females",
+      "Athletes",
+      "New-born",
+      "Males"
+    ]
+  },
+  {
+    "question": "Where are maximum bile absorbed?",
+    "correct": "Ileum",
+    "options": [
+      "Ileum",
+      "Duodenum",
+      "Jejunum",
+      "Colon"
+    ]
+  },
+  {
+    "question": "Which of the following is controlled small intestinal peristalsis?",
+    "correct": "Myenteric plexus",
+    "options": [
+      "Myenteric plexus",
+      "Meissner\u2019s plexus",
+      "Sacral plexus",
+      "Lumbar plexus"
+    ]
+  },
+  {
+    "question": "Which of the following are not endopeptidases?",
+    "correct": "Carboxypeptidase",
+    "options": [
+      "Carboxypeptidase",
+      "Chymotrypsin",
+      "Elastase",
+      "Trypsin"
+    ]
+  },
+  {
+    "question": "Which of the following stimulates gastrin secretion by the pyloric antrum?",
+    "correct": "Peptides and amino acids",
+    "options": [
+      "Peptides and amino acids",
+      "Glucose",
+      "Lipids",
+      "Triglycerides"
+    ]
+  },
+  {
+    "question": "Scientists are studying the process of absorption of water in humans. Water is absorbed in the jejunum, ileum, and colon and excreted in the feces. Arrange these in order of the amount of water absorbed or excreted from greatest to smallest:",
+    "correct": "Colon, ileum, jejunum, feces",
+    "options": [
+      "Colon, ileum, jejunum, feces",
+      "Feces, colon, ileum, jejunum",
+      "Jejunum, ileum, colon, feces",
+      "Colon, jejunum, ileum, feces"
+    ]
+  },
+  {
+    "question": "Hyperlipidemia is caused by increased concentrations of plasma lipoproteins. Alterations resulting from genetic defects are classified as primary disorders. Alternatively, other factors that alter lipoprotein metabolisms. Such as diabetes mellitus or hypothyroidism, are classified as secondary disorders. The triad hypercholesterolemia, xanthomatosis, and angina pectoris have been recognized as dominantly inherited syndrome since the work of Muller (1939). Plasma levels of LDL-C are elevated at birth and remain so throughout life. Plasma TG levels are typically normal, and HDL-C levels are normal or reduced. In which of the following are seen maximum endogenous triglycerides?",
+    "correct": "VLDL",
+    "options": [
+      "VLDL",
+      "Chylomicrons",
+      "LDL",
+      "HDL"
+    ]
+  },
+  {
+    "question": "Which of the following protects the normal pancreas from autodigestion?",
+    "correct": "Secretion of proenzymese",
+    "options": [
+      "Secretion of proenzymese",
+      "Secretion of protease inhibitors",
+      "Secretion of bicarbonat",
+      "Secretion of insulin"
+    ]
+  },
+  {
+    "question": "What is the major prostanoid synthesized in kidney?",
+    "correct": "PGE2",
+    "options": [
+      "PGE2",
+      "PGE1",
+      "PGl2",
+      "PGF2a"
+    ]
+  },
+  {
+    "question": "Which of the following mechanisms does not increased renin secretion?",
+    "correct": "Increased amount of Na+ in DCT",
+    "options": [
+      "Increased amount of Na+ in DCT",
+      "Increased amount of CL- in DCT",
+      "Decreased amount of K+ in PCT",
+      "Decreased amount of Ca2+ in PCT"
+    ]
+  },
+  {
+    "question": "Which of the following is increased Vasopressin secretion?",
+    "correct": "Decreased ECF volume",
+    "options": [
+      "Decreased ECF volume",
+      "Increased ECF volume",
+      "Decreased ICF volume",
+      "Increased ICF volume"
+    ]
+  },
+  {
+    "question": "Which of the following is not a part of filtration barrier in nephrons?",
+    "correct": "Mesangium",
+    "options": [
+      "Mesangium",
+      "Basement membrane",
+      "Podocytes",
+      "Endothelial cells"
+    ]
+  },
+  {
+    "question": "What is the major prostanoid synthesized in kidney?",
+    "correct": "PGE2",
+    "options": [
+      "PGE2",
+      "PGE1",
+      "PGl2",
+      "PGF2a"
+    ]
+  },
+  {
+    "question": "Which of the following mechanisms does not increased renin secretion?",
+    "correct": "Increased amount of Na+ in DCT",
+    "options": [
+      "Increased amount of Na+ in DCT",
+      "Increased amount of CL- in DCT",
+      "Decreased amount of K+ in PCT",
+      "Decreased amount of Ca2+ in PCT"
+    ]
+  },
+  {
+    "question": "Which of the following is not an effect of Angiotensin II?",
+    "correct": "Increased diameter of blood vessels",
+    "options": [
+      "Increased diameter of blood vessels",
+      "Increased of Aldosterone secretion",
+      "Increased ADH secretion",
+      "Increased of thirst"
+    ]
+  },
+  {
+    "question": "Urine acidification and bicarbonate reabsorption take place in several segments of the nephron: proximal tubule, loop of Henle, distal tubule, and collecting ducts where most acidification occurs ?",
+    "correct": "Proximal convoluted tubule",
+    "options": [
+      "Proximal convoluted tubule",
+      "Distal convoluted tubule",
+      "Loop of Henle",
+      "Collecting duct"
+    ]
+  },
+  {
+    "question": "What are the clinical features of somatic diseases?",
+    "correct": "Constant anxiety about possible diseases.",
+    "options": [
+      "Constant anxiety about possible diseases.",
+      "Increased blood pressure during exercise",
+      "Increased heart rate during exercise",
+      "Increased urine output",
+      "Lowering blood sugar"
+    ]
+  },
+  {
+    "question": "What indicator characterizes the maximum work of the cardiorespiratory system?",
+    "correct": "maximum oxygen consumption",
+    "options": [
+      "maximum oxygen consumption",
+      "weight and height index",
+      "end systolic pressure",
+      "lung capacity",
+      "stroke volume of the heart"
+    ]
+  },
+  {
+    "question": "What can the stroke volume of the heart reach in athletes with a large size of the trained heart?",
+    "correct": "200 ml",
+    "options": [
+      "200 ml",
+      "100 ml",
+      "150 ml",
+      "70 ml",
+      "250 ml"
+    ]
+  },
+  {
+    "question": "What is the mechanism by which infection causes fever?",
+    "correct": "Pyrogens act on hypothalamus",
+    "options": [
+      "Pyrogens act on hypothalamus",
+      "Damage of hypothalamus",
+      "Pyrogens act on hypothalamus",
+      "Hemorrhage into the hypothalamus"
+    ]
+  },
+  {
+    "question": "Which of the following energy systems are involved in the marathon runners?",
+    "correct": "Aerobic system",
+    "options": [
+      "Aerobic system",
+      "Phosphagen system",
+      "Glycogen-Lactic acid system",
+      "ATP system"
+    ]
+  },
+  {
+    "question": "What is the training pulse directly related to?",
+    "correct": "Exercise Intensity",
+    "options": [
+      "Exercise Intensity",
+      "Training mode",
+      "Exercise Intensity",
+      "Exercise time",
+      "Exercise quality"
+    ]
+  },
+  {
+    "question": "How does the hydrostatic pressure in the arteries of the head change when moving from a horizontal to a vertical position?",
+    "correct": "down",
+    "options": [
+      "down",
+      "rises",
+      "remains constant",
+      "decreases by more than 70-80 mm Hg.",
+      "changes significantly upward"
+    ]
+  },
+  {
+    "question": "If a man is 20 years old and his resting heart rate is 60 beats per minute, what would be his expected age-specific maximum heart rate?",
+    "correct": "200 beats per minute ",
+    "options": [
+      "200 beats per minute ",
+      "180 beats per minute",
+      "160 beats per minute",
+      "140 beats per minute",
+      "120 beats per minute"
+    ]
+  },
+  {
+    "question": "Which of the following is an important functional parameter of pain receptors?",
+    "correct": "Exhibit little or no adaptation",
+    "options": [
+      "Exhibit little or no adaptation",
+      "Not affected by muscle tension",
+      "Signal only flexion at joint capsules",
+      "Can voluntarily be inhibited"
+    ]
+  },
+  {
+    "question": "A 6-year-old boy was brought to the OPD with craniotabes, rachitic rosary and bowed legs. Diagnosis of rickets was made. Which of the following vitamin D should be measured, to investigate the cause of rickets?",
+    "correct": "25 hydroxyvitamin D",
+    "options": [
+      "25 hydroxyvitamin D",
+      "Cholecalciferol",
+      "1, 25 dihydroxyvitamin D",
+      "24, 25 dihydroxyvitamin D"
+    ]
+  },
+  {
+    "question": "Which organ is not involved in calcium homeostasis?",
+    "correct": "Lung",
+    "options": [
+      "Lung",
+      "Skin",
+      "Intestine",
+      "Kidneys"
+    ]
+  },
+  {
+    "question": "Glucose transport supplies fuel that is needed for energy metabolism by most mammalian cells. Glucose is a very common metabolic substrate that is used both as a fuel and a signaling molecule. Th~ supply of glucose is especially important for certain cells, such as brain neurons, which have a high metabolic rate supported by an obligate consumption of glucose as fuel in most circumstances. Insulin dependent glucose uptake occurs in?",
+    "correct": "Muscle",
+    "options": [
+      "Muscle",
+      "Epithelial cells of small intestine",
+      "Brain",
+      "Kidney"
+    ]
+  },
+  {
+    "question": "Which type of T cell is most effective against viruses?",
+    "correct": "regulatory T cells",
+    "options": [
+      "regulatory T cells",
+      "Macrophage",
+      "Helper inducer",
+      "cytotoxic T cells",
+      "Infected cells"
+    ]
+  },
+  {
+    "question": "Which of the following is an RNA virus:",
+    "correct": "Influenza virus",
+    "options": [
+      "Influenza virus",
+      "Herpes virus",
+      "Pox virus",
+      "Corona virus",
+      "Bird virus"
+    ]
+  },
+  {
+    "question": "Similar to the hair, nails grow continuously throughout our lives. Which of the following is furthest from the nail growth center?",
+    "correct": "Hyponychium",
+    "options": [
+      "Hyponychium",
+      "Nail Root",
+      "Nail Bed",
+      "Eponychium",
+      "stratum granulosum"
+    ]
+  }
+]
